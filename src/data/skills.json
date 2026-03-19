@@ -18,7 +18,9 @@
         { "name": "Spring Boot", "icon": "SiSpringboot" },
         { "name": "Hibernate", "icon": "SiHibernate" },
         { "name": "REST API", "icon": "SiPostman" },
-        { "name": "JWT", "icon": "SiJsonwebtokens" }
+        { "name": "Microservices", "icon": "SiSpringboot" },
+        { "name": "JDBC", "icon": "SiJava" },
+        { "name": ".NET Core", "icon": "SiDotnet" }
       ]
     },
     "database": {
@@ -34,9 +36,9 @@
       "color": "#EF4444",
       "technologies": [
         { "name": "Java", "icon": "SiJava" },
-        { "name": "C++", "icon": "SiCplusplus" },
         { "name": "C#", "icon": "SiCsharp" },
-        { "name": "JavaScript", "icon": "SiJavascript" }
+        { "name": "JavaScript", "icon": "SiJavascript" },
+        { "name": "SQL", "icon": "SiMysql" }
       ]
     },
     "tools": {

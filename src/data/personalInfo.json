@@ -1,11 +1,11 @@
 {
   "personalInfo": {
     "name": "Sanskar Gandhewar",
-    "title": "Java Full Stack Developer",
-    "bio": "Passionate about problem solving with strong interest in Java, Spring Boot, and SQL. Eager to learn new technologies and contribute to building efficient software solutions.",
-    "shortBio": "Building full-stack applications using Spring Boot, React.js, and modern web technologies.",
+    "title": "Java Full Stack Developer | Spring Boot | React | REST APIs | MySQL",
+    "bio": "An aspiring Java Full Stack Developer based in Pune, India with strong foundation in software development and passion for creating seamless web applications. Proficient in Java, Spring Boot, and React, building robust applications that enhance user experience and meet business needs.",
+    "shortBio": "Developing full-stack web applications using Java, Spring Boot, React, and modern web technologies with focus on data-driven solutions.",
     "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
-    "email": "sanskarsgandhewar@gmail.com",
+    "email": "sanskargandhewar.sit.entc@gmail.com",
     "phone": "+91 9022854337",
     "location": "Pune, India",
     "social": {
@@ -15,13 +15,14 @@
       "email": "sanskarsgandhewar@gmail.com"
     },
     "about": {
-      "intro": "Passionate about problem solving with strong interest in Java, Spring Boot, and SQL. Eager to learn new technologies and contribute to building efficient software solutions.",
-      "description": "I have hands-on experience developing full-stack applications, optimizing backend performance, and building responsive frontends. I enjoy writing clean, maintainable code and collaborating in agile teams to deliver impactful solutions.",
+      "intro": "Hello! I'm Sanskar Gandhewar, an aspiring Java Full Stack Developer based in Pune, India. With a strong foundation in software development and a passion for creating seamless web applications, I am dedicated to honing my skills in both front-end and back-end technologies.",
+      "description": "My journey in tech has equipped me with proficiency in Java, Spring Boot, and React, allowing me to build robust applications that enhance user experience and meet business needs. I thrive on solving complex problems and am well-versed in working with REST APIs and SQL databases, ensuring efficient data handling and integration. I am continuously expanding my knowledge of data structures and algorithms, which I believe are essential for writing optimized code and developing scalable solutions.",
       "highlights": [
         "Built a secure student management system handling 500+ records",
         "Optimized API response time by 65% using indexing and caching",
-        "Solved 200+ DSA problems on LeetCode",
-        "Developed 10+ dashboards automating reporting workflows"
+        "Developed full stack web applications using Java, Spring Boot, Hibernate, and React.js",
+        "Continuously expanding knowledge of data structures and algorithms",
+        "Passionate about collaborating on innovative projects that make a difference"
       ]
     }
   }

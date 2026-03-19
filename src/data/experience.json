@@ -2,7 +2,28 @@
   "experience": {
     "work": [
       {
-        "role": "Software Engineer Intern",
+        "role": "Full Stack Developer",
+        "company": "Kiran Academy - Java By Kiran",
+        "period": "Sep 2024 - Feb 2025",
+        "highlights": [
+          "Developed and maintained full stack web applications using Java, Spring Boot, Hibernate, and React.js",
+          "Built responsive user interfaces with modern frontend technologies",
+          "Implemented backend services using Spring Boot and REST APIs",
+          "Worked with relational databases and ORM frameworks for data persistence"
+        ]
+      },
+      {
+        "role": "Java Developer",
+        "company": "CodSoft",
+        "period": "Jan 2024 - Feb 2024",
+        "highlights": [
+          "Developed Java applications with focus on core programming principles",
+          "Built and tested software components",
+          "Collaborated with team members on various projects"
+        ]
+      },
+      {
+        "role": "Web Developer",
         "company": "InternPe",
         "period": "Dec 2023 - Jan 2024",
         "highlights": [
@@ -29,16 +50,26 @@
         "institution": "Savitribai Phule Pune University / Sinhgad Institute of Technology, Lonavala",
         "period": "2021 - 2025",
         "details": [
-          "CGPA: 8.0"
+          "CGPA: 8.0",
+          "Specialized in Computer Science with strong foundation in software development"
         ]
       },
       {
-        "degree": "Higher Secondary Education",
+        "degree": "Higher Secondary Education, Computer Science",
         "institution": "Markandeya Junior College, Ralegaon",
-        "period": "2021",
+        "period": "2019 - 2021",
         "details": [
-          "Maharashtra State Board",
-          "Percentage: 87.83%"
+          "Percentage: 87.83%",
+          "Maharashtra State Board"
+        ]
+      },
+      {
+        "degree": "Secondary Education",
+        "institution": "School of Brilliant (CBSE)",
+        "period": "2019",
+        "details": [
+          "Percentage: 70%",
+          "CBSE Board"
         ]
       }
     ]

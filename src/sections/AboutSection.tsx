@@ -97,7 +97,7 @@ export const AboutSection = () => {
             </motion.div>
 
             {/* Fun Facts */}
-            <motion.div
+            {/* <motion.div
               className='grid grid-cols-2 gap-4 pt-6'
               variants={itemVariants}
             >
@@ -107,7 +107,7 @@ export const AboutSection = () => {
                   <p className='text-white font-semibold'>{fact.value}</p>
                 </div>
               ))}
-            </motion.div>
+            </motion.div> */}
           </motion.div>
         </motion.div>
       </div>

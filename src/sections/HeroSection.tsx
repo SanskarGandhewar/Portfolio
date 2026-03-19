@@ -107,7 +107,7 @@ export const HeroSection = () => {
             </motion.div>
 
             {/* Stats */}
-            <motion.div
+            {/* <motion.div
               className='grid grid-cols-2 md:grid-cols-3 gap-8 pt-8'
               variants={itemVariants}
             >
@@ -117,7 +117,7 @@ export const HeroSection = () => {
                   <p className='text-sm text-gray-400'>{stat.label}</p>
                 </div>
               ))}
-            </motion.div>
+            </motion.div> */}
           </div>
 
           {/* Right - Animated Sticker */}

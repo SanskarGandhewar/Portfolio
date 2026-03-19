@@ -1,0 +1,31 @@
+{
+  "personalInfo": {
+    "name": "Sanskar Gandhewar",
+    "title": "Java Full Stack Developer",
+    "bio": "Passionate about problem solving with strong interest in Java, Spring Boot, and SQL. Eager to learn new technologies and contribute to building efficient software solutions.",
+    "shortBio": "Building full-stack applications using Spring Boot, React.js, and modern web technologies.",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "email": "sanskarsgandhewar@gmail.com",
+    "phone": "+91 9022854337",
+    "location": "Pune, India",
+    "social": {
+      "github": "https://github.com/sanskarsgandhewar",
+      "linkedin": "https://linkedin.com/in/sanskarsgandhewar",
+      "twitter": "https://twitter.com/sanskarsgandhewar",
+      "email": "sanskarsgandhewar@gmail.com"
+    },
+    "about": {
+      "intro": "Passionate about problem solving with strong interest in Java, Spring Boot, and SQL. Eager to learn new technologies and contribute to building efficient software solutions.",
+      "description": "I have hands-on experience developing full-stack applications, optimizing backend performance, and building responsive frontends. I enjoy writing clean, maintainable code and collaborating in agile teams to deliver impactful solutions.",
+      "highlights": [
+        "Built a secure student management system handling 500+ records",
+        "Optimized API response time by 65% using indexing and caching",
+        "Solved 200+ DSA problems on LeetCode",
+        "Developed 10+ dashboards automating reporting workflows"
+      ]
+    },
+    "stats": [
+     
+    ]
+  }
+}

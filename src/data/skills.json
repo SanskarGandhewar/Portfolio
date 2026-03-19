@@ -1,0 +1,63 @@
+{
+  "skills": {
+    "frontend": {
+      "category": "Frontend",
+      "color": "#3B82F6",
+      "technologies": [
+        { "name": "React.js", "icon": "SiReact" },
+        { "name": "HTML5", "icon": "SiHtml5" },
+        { "name": "CSS3", "icon": "SiCss3" },
+        { "name": "JavaScript", "icon": "SiJavascript" }
+      ]
+    },
+    "backend": {
+      "category": "Backend",
+      "color": "#10B981",
+      "technologies": [
+        { "name": "Java", "icon": "SiJava" },
+        { "name": "Spring Boot", "icon": "SiSpringboot" },
+        { "name": "Hibernate", "icon": "SiHibernate" },
+        { "name": "REST API", "icon": "SiPostman" },
+        { "name": "JWT", "icon": "SiJsonwebtokens" }
+      ]
+    },
+    "database": {
+      "category": "Database",
+      "color": "#8B5CF6",
+      "technologies": [
+        { "name": "MySQL", "icon": "SiMysql" },
+        { "name": "PostgreSQL", "icon": "SiPostgresql" }
+      ]
+    },
+    "programming": {
+      "category": "Programming Languages",
+      "color": "#EF4444",
+      "technologies": [
+        { "name": "Java", "icon": "SiJava" },
+        { "name": "C++", "icon": "SiCplusplus" },
+        { "name": "C#", "icon": "SiCsharp" },
+        { "name": "JavaScript", "icon": "SiJavascript" }
+      ]
+    },
+    "tools": {
+      "category": "Tools & Technologies",
+      "color": "#F59E0B",
+      "technologies": [
+        { "name": "GitHub", "icon": "SiGithub" },
+        { "name": "Postman", "icon": "SiPostman" },
+        { "name": "Linux", "icon": "SiLinux" }
+      ]
+    },
+    "core": {
+      "category": "Core Concepts",
+      "color": "#06B6D4",
+      "technologies": [
+        { "name": "OOP", "icon": "SiOpenjdk" },
+        { "name": "Data Structures", "icon": "SiGraphql" },
+        { "name": "Algorithms", "icon": "SiCodepen" },
+        { "name": "DBMS", "icon": "SiMongodb" },
+        { "name": "Operating Systems", "icon": "SiLinux" }
+      ]
+    }
+  }
+}

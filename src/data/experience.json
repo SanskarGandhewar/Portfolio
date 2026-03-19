@@ -1,0 +1,46 @@
+{
+  "experience": {
+    "work": [
+      {
+        "role": "Software Engineer Intern",
+        "company": "InternPe",
+        "period": "Dec 2023 - Jan 2024",
+        "highlights": [
+          "Designed and deployed 4 interactive web applications, increasing UI responsiveness by 30%.",
+          "Enhanced overall UX through responsive UI components.",
+          "Refactored reusable components to improve maintainability.",
+          "Accelerated page load speed by 25% via layout optimization.",
+          "Collaborated with a 3-member team and implemented Git workflow, reducing merge conflicts by 40%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Post Graduate Diploma in Advanced Computing (CDAC)",
+        "institution": "CDAC, Pune",
+        "period": "2025 - 2026",
+        "details": [
+          "Specialized in Advanced Java, DSA, Web Technologies, DBMS.",
+          "Completed full-stack capstone project using Spring Boot & MySQL."
+        ]
+      },
+      {
+        "degree": "Bachelor of Engineering, Electronics & Telecommunication",
+        "institution": "Savitribai Phule Pune University / Sinhgad Institute of Technology, Lonavala",
+        "period": "2021 - 2025",
+        "details": [
+          "CGPA: 8.0"
+        ]
+      },
+      {
+        "degree": "Higher Secondary Education",
+        "institution": "Markandeya Junior College, Ralegaon",
+        "period": "2021",
+        "details": [
+          "Maharashtra State Board",
+          "Percentage: 87.83%"
+        ]
+      }
+    ]
+  }
+}

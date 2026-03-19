@@ -1,0 +1,28 @@
+﻿
+> ai-agent-portfolio@0.0.0 build
+> tsc -b && vite build
+
+[36mvite v8.0.1 [32mbuilding client environment for production...[36m[39m
+[2K
+transforming...Γ£ô 438 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                     0.97 kB Γöé gzip:     0.45 kB
+dist/assets/index-Bj-cJmKX.css     16.50 kB Γöé gzip:     4.13 kB
+dist/assets/index-b9pPrBVK.js   5,360.04 kB Γöé gzip: 2,089.90 kB
+
+[32mΓ£ô built in 949ms[39m
+node.exe : [33m[plugin builtin:vite-reporter] 
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Users\SANSKAR\AppData\Roamin ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([33m[plugin builtin:vite-reporte 
+   r] :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rolldownOptions.output.codeSplitting to improve chunking: 
+https://rolldown.rs/reference/OutputOptions.codeSplitting
+- Adjust chunk size limit for this warning via 
+build.chunkSizeWarningLimit.[39m

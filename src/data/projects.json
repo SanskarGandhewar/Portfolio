@@ -1,0 +1,54 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Student Performance & Activity Tracking System",
+      "description": "Developed a secure role-based student management system handling 500+ records. Optimized API performance by 65% using indexing and caching. Built 10+ dashboards reducing manual reporting effort by 70%.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=300&fit=crop",
+      "technologies": ["Spring Boot", "React.js", "MySQL", "Redis", "REST API"],
+      "github": "https://github.com/dacaug25-03/student-performance-system",
+      "live": "",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Banking Web Application",
+      "description": "Built a banking system supporting account creation, deposits, withdrawals, and balance tracking. Implemented authentication and optimized SQL queries improving database performance by 30%.",
+      "image": "https://images.unsplash.com/photo-1557821552-17105176677c?w=500&h=300&fit=crop",
+      "technologies": ["Java", "JDBC", "SQL", "HTML", "CSS"],
+      "github": "https://github.com/SanskarGandhewar/-Bank-Application-using-CRUD",
+      "live": "",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "AgroVision - Weed Detection System",
+      "description": "Final year project using computer vision to detect weeds in agricultural fields. Improved crop monitoring efficiency using deep learning and image processing techniques.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=500&h=300&fit=crop",
+      "technologies": ["Python", "OpenCV", "Deep Learning", "TensorFlow"],
+      "github": "https://github.com/yourusername/agrovision",
+      "live": "",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Data Analytics Dashboards",
+      "description": "Designed and developed 10+ interactive dashboards for data visualization and reporting using Power BI. Automated workflows and improved decision-making efficiency.",
+      "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=500&h=300&fit=crop",
+      "technologies": ["Power BI", "SQL", "Data Visualization"],
+      "github": "https://github.com/SanskarGandhewar/Car-Dashboard",
+      "live": "",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Portfolio Website",
+      "description": "Built a dynamic personal portfolio using React, Tailwind CSS, and Framer Motion with smooth animations and responsive design.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=300&fit=crop",
+      "technologies": ["React", "Tailwind CSS", "Framer Motion"],
+      "github": "https://github.com/yourusername/portfolio",
+      "live": "https://yourportfolio.vercel.app",
+      "featured": false
+    }
+  ]
+}
